@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://media1.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=ecf05e476vcvs6ztw4ycb83lsh4oifeg8ry21ip2391j7xdz&rid=giphy.gif&ct=g);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    font-weight: lighter;
+    min-height: calc(100vh-40px);
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+}
+.sala {
+    background-color: rgba(255, 255, 255, 0.644);
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 30px 40px rgba(212, 6, 6, 0.602);
+}
+
+#humor {
+    background-color: yellow;
+    width: 200px;
+    height: 60px;
+    font-size: 45px;
+    border-radius: 50px;
+}
+
+
